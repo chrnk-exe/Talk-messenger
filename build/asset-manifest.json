@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca014cb6.chunk.css",
+    "main.js": "/static/js/main.346c81ed.chunk.js",
+    "main.js.map": "/static/js/main.346c81ed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.adcbe709.js",
+    "runtime-main.js.map": "/static/js/runtime-main.adcbe709.js.map",
+    "static/css/2.83191f49.chunk.css": "/static/css/2.83191f49.chunk.css",
+    "static/js/2.3d816946.chunk.js": "/static/js/2.3d816946.chunk.js",
+    "static/js/2.3d816946.chunk.js.map": "/static/js/2.3d816946.chunk.js.map",
+    "static/js/3.f677c854.chunk.js": "/static/js/3.f677c854.chunk.js",
+    "static/js/3.f677c854.chunk.js.map": "/static/js/3.f677c854.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.83191f49.chunk.css.map": "/static/css/2.83191f49.chunk.css.map",
+    "static/css/main.ca014cb6.chunk.css.map": "/static/css/main.ca014cb6.chunk.css.map",
+    "static/js/2.3d816946.chunk.js.LICENSE.txt": "/static/js/2.3d816946.chunk.js.LICENSE.txt",
+    "static/js/3.f677c854.chunk.js.LICENSE.txt": "/static/js/3.f677c854.chunk.js.LICENSE.txt",
+    "static/media/arrowBack.44d5abd3.svg": "/static/media/arrowBack.44d5abd3.svg",
+    "static/media/arrowBack.9dbef87f.svg": "/static/media/arrowBack.9dbef87f.svg",
+    "static/media/attach.fd096489.svg": "/static/media/attach.fd096489.svg",
+    "static/media/chatbubbles.74c1e356.svg": "/static/media/chatbubbles.74c1e356.svg",
+    "static/media/companionSettings.49200994.svg": "/static/media/companionSettings.49200994.svg",
+    "static/media/general.2f9ef6c0.svg": "/static/media/general.2f9ef6c0.svg",
+    "static/media/logo.9821ec5d.png": "/static/media/logo.9821ec5d.png",
+    "static/media/logout.f2aaae36.svg": "/static/media/logout.f2aaae36.svg",
+    "static/media/meow.1d6ccc8c.mp3": "/static/media/meow.1d6ccc8c.mp3",
+    "static/media/notifications.cda782bb.svg": "/static/media/notifications.cda782bb.svg",
+    "static/media/person.3b7bc461.svg": "/static/media/person.3b7bc461.svg",
+    "static/media/privacy.6ec4cf10.svg": "/static/media/privacy.6ec4cf10.svg",
+    "static/media/profile.1c960d96.svg": "/static/media/profile.1c960d96.svg",
+    "static/media/settings.93a39797.svg": "/static/media/settings.93a39797.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adcbe709.js",
+    "static/css/2.83191f49.chunk.css",
+    "static/js/2.3d816946.chunk.js",
+    "static/css/main.ca014cb6.chunk.css",
+    "static/js/main.346c81ed.chunk.js"
+  ]
+}
